@@ -1,5 +1,5 @@
-# hackerrank-sql
-Minhas soluções para os exercicios sobre SQL na plataforma Hackerrank.
+### HackerRank SQL
+Minhas soluções para os exercicios sobre SQL na plataforma HackerRank.
 
 ###### Template
 
